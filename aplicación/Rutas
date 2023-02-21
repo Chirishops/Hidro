@@ -1,0 +1,16 @@
+├── README.md // A README file that introduces the Hello World template
+├── app
+│   ├── entry.client.jsx // component that sets up browser hydration
+│   ├── entry.server.jsx // Remix entry point for the server
+│   ├── root.jsx // Your app's top level Remix route
+│   └── styles
+│       └── app.css // Global styles imported into routes/index.jsx
+├── dist
+│   ├── client
+│   └── worker
+├── .env  // Environment variables including demo store tokens
+├── jsconfig.json // JavaScript or TypeScript configuration file
+├── package.json // Used to install dependencies and run scripts
+├── public
+│   └── favicon.svg // Hydrogen favicon
+└── server.js // The absolute entry point for the server when a new HTTP request arrives.
