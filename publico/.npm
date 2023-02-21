@@ -1,0 +1,7 @@
+cd <directory>
+npm create @shopify/hydrogen@latest
+Where would you like to create your app?
+> hydrogen-hello-world
+  ▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔
+npm run dev http://localhost:3000/
+
