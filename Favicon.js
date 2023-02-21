@@ -5,3 +5,4 @@ Where would you like to create your app?
   ▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔
 cd hydrogen-hello-world
 yarn dev
+http://localhost:3000/
